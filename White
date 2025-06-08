@@ -1,0 +1,8 @@
+return {
+    verifiedHWIDs = {
+    ["0e74d67f871d473fe2207c7afb45067eb925e06de19bb5b9fa01fada5771a4a8"] = true,  
+    },
+    verifiedUserIds = {
+    [4298015048] = true,
+    }
+}
