@@ -1,7 +1,7 @@
 return {
     verifiedHWIDs = {
     ["a36ca7d2de6279d9"] = true,
-    ["ta34c"] = true,
+    ["6298ed0dce26d0daba856737c4bebcd3d6e897499f34f23015a01ca03cb4ffd7"] = true,
     },
     verifiedUserIds = {
     [4298015048] = true,
