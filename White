@@ -1,10 +1,10 @@
 return {
     verifiedHWIDs = {
     ["a36ca7d2de6279d9"] = true,
-    ["6298ed0dce26d0daba856737c4bebcd3d6e897499f34f23015a01ca03cb4ffd7"] = true,
-    ["776b7b29d19184ae7501f17bb94cdde87936e6ac1cee091468ddf6efa6318d17"] = true,
-    ["08ac476c433c8292"] = true,
-    ["b0db1a5ded63cc43"] = true,
+    ["1q"] = true,
+    ["1q"] = true,
+    ["1q"] = true,
+    ["1q"] = true,
     },
     verifiedUserIds = {
     [4298015048] = true,
