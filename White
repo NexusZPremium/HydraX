@@ -1,7 +1,7 @@
 return {
     verifiedHWIDs = {
     ["a36ca7d2de6279d9"] = true,
-    ["f7fbd973d44f74ea6ac09d924b2b68e01c706b92f50af32613b15b66e10a7194"] = true,
+    ["d45696f53d8cfedc7674de6fad7d13731cab15022a10cc8080874a48198dff5a"] = true,
     ["1f3835b57aa74287da85edfcaa1697dae9b3b9b7dc094950874e48f0273768aa"] = true,
     ["b0db1a5ded63cc43"] = true,
     ["1q"] = true,
